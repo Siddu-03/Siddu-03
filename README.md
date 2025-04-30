@@ -8,7 +8,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech (Hons) in Cybersecurity @ RV University  
+- 🎓 B.Tech (Hons) in Computer Science and Engineering @ RV University
+- 🎓 Major: Cybersecurity
 - 💡 Interests: Artificial Intelligence, Linux, System Security  
 - 📫 Reach me: **siddeshwarprasadkr@gmail.com**
 
