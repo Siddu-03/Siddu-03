@@ -1,5 +1,6 @@
 
-<img src="banner.png" alt="Cybersecurity Banner" width="100%" />
+<img src="banner.png" alt="Cybersecurity Banner" width="100%" style="margin-bottom: 20px;" />
+
 <h1 align="center">Siddeshwarprasad K R</h1>
 <p align="center"><i>Cybersecurity Student • AI Explorer</i></p>
 <p align="center">
