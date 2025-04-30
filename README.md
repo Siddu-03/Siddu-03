@@ -1,5 +1,5 @@
 <h1 align="center">Siddeshwarprasad K R</h1>
-<p align="center"><i>Cybersecurity Student • AI Explorer • Developer</i></p>
+<p align="center"><i>Cybersecurity Student • AI Explorer</i></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;AI+and+Linux+Lover;Web+Dev+Collaborator;Always+learning+something+new!&center=true&width=500&height=50" />
 </p>
