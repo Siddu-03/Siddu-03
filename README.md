@@ -14,12 +14,6 @@
 
 ---
 
-### ⚡ Now
-
-![What I'm doing now](https://img.shields.io/static/v1?label=Current%20Focus&message=Learning%20ML%20Research%20Papers&color=blue)
-
----
-
 ### 🧑‍💻 My Skills
 
 **C**: 🟩🟩🟩⬜⬜  
