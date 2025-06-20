@@ -27,6 +27,7 @@
 **CSS**: 🟩🟩🟩🟩⬜   
 **JavaScript**: 🟩🟩🟩⬜⬜
 **Python**: 🟩⬜⬜⬜⬜
+
 ---
 
 ### 🛠 Tech Stack
