@@ -13,6 +13,7 @@
 
 - 🎓 B.Tech (Hons) in Computer Science and Engineering @ RV University
 - 🎓 Major: Cybersecurity
+- 🎓 Minors: Business Administration
 - 💡 Interests: Artificial Intelligence, Linux, System Security  
 - 📫 Reach me: **siddeshwarprasadkr@gmail.com**
 
@@ -25,7 +26,7 @@
 **HTML**: 🟩🟩🟩🟩🟩  
 **CSS**: 🟩🟩🟩🟩⬜   
 **JavaScript**: 🟩🟩🟩⬜⬜
-
+**Python**: 🟩⬜⬜⬜⬜
 ---
 
 ### 🛠 Tech Stack
