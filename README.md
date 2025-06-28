@@ -1,39 +1,41 @@
+<img src="banner.png" alt="Banner" width="100%" />
 
-<img src="banner.png" alt="Cybersecurity Banner" width="100%" style="margin-bottom: 20px;" />
 
 <h1 align="center">Siddeshwarprasad K R</h1>
 <p align="center"><i>Cybersecurity Student • AI Explorer</i></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;AI+and+Linux+Lover;Web+Developer;Always+learning+something+new!&center=true&width=500&height=50" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=🛠️+Probably+debugging+right+now...;🤖+Making+AI+things+work+–+somehow;🔐+Cybersecurity+student+by+day;🧠+Always+one+tab+away+from+StackOverflow+😅&center=true&width=500&height=50" />
+
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech (Hons) in Computer Science and Engineering @ RV University
-- 🎓 Major: Cybersecurity
-- 🎓 Minors: Business Administration
+- 🎓 B.Tech (Hons) in Computer Science and Engineering @ RV University  
+- 🎓 Major: Cybersecurity  
+- 🎓 Minors: Business Administration  
 - 💡 Interests: Artificial Intelligence, Linux, System Security  
 - 📫 Reach me: **siddeshwarprasadkr@gmail.com**
 
 ---
 
-### 🧑‍💻 My Skills
+### 🧠 My Skills
 
-**C**: 🟩🟩🟩⬜⬜  
-**MySQL**: 🟩🟩🟩🟩⬜  
-**HTML**: 🟩🟩🟩🟩🟩  
-**CSS**: 🟩🟩🟩🟩⬜   
-**JavaScript**: 🟩🟩🟩⬜⬜     
-**Python**: 🟩⬜⬜⬜⬜
+| Language / Tool | Progress |
+|-----------------|----------|
+| **C**           | 🟩🟩🟩⬜⬜ |
+| **MySQL**       | 🟩🟩🟩🟩⬜ |
+| **HTML**        | 🟩🟩🟩🟩🟩 |
+| **CSS**         | 🟩🟩🟩🟩⬜ |
+| **JavaScript**  | 🟩🟩🟩⬜⬜ |
+| **Python**      | 🟩⬜⬜⬜⬜ |
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="left">
-
   <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,21 +54,39 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddu-03&theme=tokyonight&margin-w=10&row=1" />
+</p>
+
+---
+
+### 📘 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu-03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 🚀 Future Goals
 
 - Contribute to open-source Linux or cybersecurity tools  
 - Start building AI tools for student learning workflows  
 - Intern at a research-driven cybersecurity or AI lab  
 
-
-
-
-
 ---
 
 ### 📊 GitHub Activity Timeline
 
-[![Siddharth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddu-03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Siddeshwar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddu-03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+<!-- 🔊 Spotify integration on pause -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-Coming%20Soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
 
 ---
 
