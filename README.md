@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="siddeshwar.png" alt="Banner" width="100%" />
 
 
 <h1 align="center">Siddeshwarprasad K R</h1>
