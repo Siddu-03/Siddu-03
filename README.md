@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Siddeshwarprasad K R</h1>
-<p align="center"><i>Cybersecurity Student • AI Explorer</i></p>
+<p align="center"><i>Cyber kid trying to make AI behave 😅 | Just one Ctrl+Z away from sanity</i>
+</p>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=🛠️+Probably+debugging+right+now...;🤖+Making+AI+things+work+–+somehow;🔐+Cybersecurity+student+by+day;🧠+Always+one+tab+away+from+StackOverflow+😅&center=true&width=500&height=50" />
 
@@ -72,9 +73,9 @@
 
 ### 🚀 Future Goals
 
-- Contribute to open-source Linux or cybersecurity tools  
-- Start building AI tools for student learning workflows  
-- Intern at a research-driven cybersecurity or AI lab  
+- 🌱 Contribute to open-source, especially in Linux or security tools  
+- 🤖 Build AI tools to make students' lives easier  
+- 🧪 Intern at a crazy cool lab doing cybersecurity or AI wizardry  
 
 ---
 
