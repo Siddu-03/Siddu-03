@@ -1,96 +1,60 @@
-<img src="siddeshwar.png" alt="Banner" width="100%" />
+# Siddeshwarprasad K R
 
-
-<h1 align="center">Siddeshwarprasad K R</h1>
-<p align="center"><i>Cyber kid trying to make AI behave 😅 | Just one Ctrl+Z away from sanity</i>
-</p>
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=🛠️+Probably+debugging+right+now...;🤖+Making+AI+things+work+–+somehow;🔐+Cybersecurity+student+by+day;🧠+Always+one+tab+away+from+StackOverflow+😅&center=true&width=500&height=50" />
-
-</p>
+**Cybersecurity & AI Enthusiast | B.Tech CSE @ RV University**  
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech (Hons) in Computer Science and Engineering @ RV University  
-- 🎓 Major: Cybersecurity  
-- 🎓 Minors: Business Administration  
-- 💡 Interests: Artificial Intelligence, Linux, System Security, FrontEnd  
-- 📫 Reach me: **siddeshwarprasadkr@gmail.com**
+- 🎓 B.Tech (Hons) in Computer Science and Engineering  
+- 🎓 Major: Cybersecurity | Minor: Business Administration  
+- 💡 Interests: Cybersecurity, AI, Linux, System Security, Networking  
 
 ---
 
-### 🧠 My Skills
+### 🛠 Technical Skills
 
-| Language / Tool | Progress |
-|-----------------|----------|
-| **C**           | 🟩🟩🟩⬜⬜ |
-| **MySQL**       | 🟩🟩🟩🟩⬜ |
-| **HTML**        | 🟩🟩🟩🟩🟩 |
-| **CSS**         | 🟩🟩🟩🟩⬜ |
-| **JavaScript**  | 🟩🟩🟩⬜⬜ |
-| **Python**      | 🟩⬜⬜⬜⬜ |
+| Language / Tool | Proficiency |
+|-----------------|------------|
+| C               | Intermediate |
+| MySQL           | Advanced     |
+| HTML/CSS        | Advanced     |
+| JavaScript      | Intermediate |
+| Python          | Beginner     |
 
----
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white"/>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddu-03&show_icons=true&hide_border=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddu-03&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddu-03&theme=tokyonight&margin-w=10&row=1" />
-</p>
-
----
-
-### 📘 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu-03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddu-03&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ### 🚀 Future Goals
 
-- 🌱 Contribute to open-source, especially in Linux or security tools  
-- 🤖 Build AI tools to make students' lives easier  
-- 🧪 Intern at a crazy cool lab doing cybersecurity or AI wizardry  
+- Contribute to open-source cybersecurity or AI projects  
+- Build AI tools for automation and security research  
+- Secure internships in cybersecurity, AI, or systems research
 
 ---
 
-### 📊 GitHub Activity Timeline
+### 📫 Contact
 
-[![Siddeshwar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddu-03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
-
-<!-- 🔊 Spotify integration on pause -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Spotify-Coming%20Soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
+- Email: **siddeshwarprasadkr@gmail.com**  
+- LinkedIn: [Siddeshwarprasad K R](https://www.linkedin.com/in/siddeshwarprasadkr/)  
+- Portfolio: [My Portfolio](https://yourportfolio.com)  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddu-03&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+**Instagram (optional / fun, closing note):**  
+<img src="instagram-qr.png" alt="Instagram QR" width="100" />
