@@ -51,10 +51,13 @@
 ### 📫 Contact
 
 - Email: **siddeshwarprasadkr@gmail.com**  
-- LinkedIn: [Siddeshwarprasad K R](https://www.linkedin.com/in/siddeshwarprasadkr/)  
+- LinkedIn: [Siddeshwarprasad K R](www.linkedin.com/in/siddeshwarprasadkr)  
 - Portfolio: [My Portfolio](https://yourportfolio.com)  
 
 ---
 
-**Instagram (optional / fun, closing note):**  
-<img src="instagram-qr.png" alt="Instagram QR" width="100" />
+**Instagram (on a closing note):**  
+
+<div align="center">
+  <img src="instagram-qr.png" alt="Instagram QR" width="200" height="200" style="object-fit: cover;"/>
+</div>
