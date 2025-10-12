@@ -51,7 +51,7 @@
 ### 📫 Contact
 
 - Email: **siddeshwarprasadkr@gmail.com**  
-- LinkedIn: [Siddeshwarprasad K R](www.linkedin.com/in/siddeshwarprasadkr)  
+- LinkedIn: [Siddeshwarprasad K R](https://www.linkedin.com/in/siddeshwarprasadkr)
 - Portfolio: [In Progress](#)
 
 ---
