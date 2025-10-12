@@ -52,7 +52,7 @@
 
 - Email: **siddeshwarprasadkr@gmail.com**  
 - LinkedIn: [Siddeshwarprasad K R](www.linkedin.com/in/siddeshwarprasadkr)  
-- Portfolio: [My Portfolio](https://yourportfolio.com)  
+- Portfolio: [In Progress](#)
 
 ---
 
