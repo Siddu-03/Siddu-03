@@ -12,16 +12,6 @@
 
 ---
 
-### 🛠 Technical Skills
-
-| Language / Tool | Proficiency |
-|-----------------|------------|
-| C               | Intermediate |
-| MySQL           | Advanced     |
-| HTML/CSS        | Advanced     |
-| JavaScript      | Intermediate |
-| Python          | Beginner     |
-
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=white"/>
